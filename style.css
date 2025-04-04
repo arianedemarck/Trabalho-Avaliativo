@@ -1,7 +1,7 @@
 body{
     background-color: #dbae32;
     color: rgb(140, 27, 216);
-    text-align: center;
+    text-align: justify;
     font-size: 20px;
     padding: 0 24px;
 
@@ -22,17 +22,12 @@ body{
 }
 
 .rodape{
-    text-align: center;
+    text-align: justify;
     display: grid;
-    font-size: 18px;
-    color: rgb(61, 59, 52);
+    font-size: 15px;
+    color: rgb(101, 31, 167);
 }
 
 .imagem{
-    width: 20%;
-}
-
-.linha{
-    border-bottom: 1px solid #808080;
-    border-top: 1px solid #808080;
+    width: 30%;
 }
